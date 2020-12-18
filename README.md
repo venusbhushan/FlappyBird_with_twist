@@ -1,1 +1,3 @@
-# FlappyBird_with_twist
+Clone and run
+
+Just rememebr to use earphones,if you use it at home
