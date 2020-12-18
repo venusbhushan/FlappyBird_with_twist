@@ -188,7 +188,7 @@ public Music music;
 			batch.draw(gameover, Gdx.graphics.getWidth() / 2 - gameover.getWidth() / 2, Gdx.graphics.getHeight() / 2 - gameover.getHeight() / 2);
 
             //music.setLooping(true);
-//            music.setVolume(0.5f);
+            music.setVolume(0.7f);
             music.play();
 			if (Gdx.input.justTouched()) {
 				music.pause();
